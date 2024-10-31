@@ -1,0 +1,22 @@
+.woocommerce div.product div.images .pizfwc-control-thumbs{
+	margin: 3px -4px 0;
+	padding: 0;
+	display: flex;
+	flex-wrap: wrap;
+}
+.woocommerce div.product .woocommerce-product-gallery.woocommerce-product-gallery--columns-4 .flex-control-thumbs li{
+	flex: 0 0 25%;
+	display: inline-block;
+    vertical-align: top;
+    float: none;
+    margin: 0;
+    padding: 4px;
+}
+.pizfwc_zoom_type--window.pizfwc_lens_shape--round .zoomLens{
+	border-radius: 100% !important;
+}
+
+/*mesmerize theme support*/
+.zoomContainer{
+	z-index: 1;
+}

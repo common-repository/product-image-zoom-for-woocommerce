@@ -1,0 +1,390 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Product Image Zooom For WooCommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-10-06 15:44+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.0; wp-5.2.3"
+
+#: includes/plugin-options.php:246
+msgid ""
+"(Effective for Zoom Type: lens) This makes sure the lens does not fall "
+"outside the outside of the image"
+msgstr ""
+
+#: includes/plugin-options.php:233
+msgid "(Effective for Zoom Type: window)"
+msgstr ""
+
+#: includes/plugin-options.php:184
+msgid "(Effective for Zoom Type: window/inner)"
+msgstr ""
+
+#: includes/plugin-options.php:197
+msgid "(Effective for Zoom Type: window/lens)"
+msgstr ""
+
+#: includes/plugin-options.php:220
+msgid "(Effective for Zoom Type: window/lens) "
+msgstr ""
+
+#: includes/plugin-options.php:157 includes/plugin-options.php:171
+msgid "0"
+msgstr ""
+
+#: includes/plugin-options.php:293 includes/plugin-options.php:314
+msgid "0.4"
+msgstr ""
+
+#: includes/plugin-options.php:135 includes/plugin-options.php:262
+msgid "1"
+msgstr ""
+
+#: includes/plugin-options.php:143
+msgid "11"
+msgstr ""
+
+#: includes/plugin-options.php:144
+msgid "12"
+msgstr ""
+
+#: includes/plugin-options.php:145
+msgid "13"
+msgstr ""
+
+#: includes/plugin-options.php:146
+msgid "14"
+msgstr ""
+
+#: includes/plugin-options.php:147
+msgid "15"
+msgstr ""
+
+#: includes/plugin-options.php:148
+msgid "16"
+msgstr ""
+
+#: includes/plugin-options.php:136
+msgid "2"
+msgstr ""
+
+#: includes/plugin-options.php:137
+msgid "4"
+msgstr ""
+
+#: includes/plugin-options.php:112 includes/plugin-options.php:122
+#: includes/plugin-options.php:211
+msgid "400"
+msgstr ""
+
+#: includes/plugin-options.php:138
+msgid "5"
+msgstr ""
+
+#: includes/plugin-options.php:139
+msgid "6"
+msgstr ""
+
+#: includes/plugin-options.php:140
+msgid "7"
+msgstr ""
+
+#: includes/plugin-options.php:141
+msgid "8"
+msgstr ""
+
+#: includes/plugin-options.php:142
+msgid "9"
+msgstr ""
+
+#: includes/plugin-options.php:44
+msgid "Animation"
+msgstr ""
+
+#: includes/plugin-options.php:261
+msgid "Border size of the window. Default:1"
+msgstr ""
+
+#: includes/plugin-options.php:283
+msgid ""
+"Color of the lens background. When using tint, this is overrided to "
+"transparent."
+msgstr ""
+
+#: includes/plugin-options.php:306
+msgid "Colour of the tint, can be #hex, word (red, blue), or rgb(x, x, x)"
+msgstr ""
+
+#: includes/plugin-options.php:189
+msgid "Crosshair"
+msgstr ""
+
+#: includes/plugin-options.php:188
+msgid "Cursor"
+msgstr ""
+
+#: includes/plugin-options.php:183
+msgid "Cursor Type"
+msgstr ""
+
+#: includes/plugin-options.php:88 includes/plugin-options.php:225
+#: includes/plugin-options.php:238 includes/plugin-options.php:251
+msgid "Disable"
+msgstr ""
+
+#: includes/plugin-options.php:87 includes/plugin-options.php:224
+#: includes/plugin-options.php:237 includes/plugin-options.php:250
+msgid "Enable"
+msgstr ""
+
+#: includes/plugin-options.php:245
+msgid "Enable/Disable Contain Lens Zoom"
+msgstr ""
+
+#: includes/plugin-options.php:328
+msgid "Enable/Disable Easing Effect"
+msgstr ""
+
+#: includes/plugin-options.php:82
+msgid "Enable/Disable On Mobile"
+msgstr ""
+
+#: includes/plugin-options.php:73
+msgid "Enable/Disable Product Zoom"
+msgstr ""
+
+#: includes/plugin-options.php:232
+msgid "Enable/Disable Tint Overlay"
+msgstr ""
+
+#: includes/plugin-options.php:219
+msgid "Enable/Disable Zoom On Mouse Scroll"
+msgstr ""
+
+#: includes/plugin-options.php:420
+msgid "Exclude Product Categories"
+msgstr ""
+
+#: includes/plugin-options.php:430
+msgid "Exclude Product Ids"
+msgstr ""
+
+#: includes/plugin-options.php:36
+msgid "General"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://azplugins.com"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://demo.azplugins.com/product-image-zoom/"
+msgstr ""
+
+#: includes/plugin-options.php:48
+msgid "Inclusion/Exclusion"
+msgstr ""
+
+#: includes/plugin-options.php:83
+msgid ""
+"It Works with real mobile devices. Do not test it by resize browser window."
+msgstr ""
+
+#: includes/plugin-options.php:282
+msgid "Lens Background Color"
+msgstr ""
+
+#: includes/plugin-options.php:340
+msgid "Lens Fade In Speed"
+msgstr ""
+
+#: includes/plugin-options.php:353
+msgid "Lens Fade Out Speed"
+msgstr ""
+
+#: includes/plugin-options.php:291
+msgid "Lens Opacity"
+msgstr ""
+
+#: includes/plugin-options.php:196
+msgid "Lens Shape"
+msgstr ""
+
+#: includes/plugin-options.php:209
+msgid "Lens Size"
+msgstr ""
+
+#: includes/plugin-options.php:29
+msgid "Product Image Zoom"
+msgstr ""
+
+#: includes/plugin-options.php:29
+msgid "Product Image Zoom Options"
+msgstr ""
+
+#. Name of the plugin
+msgid "Product Image Zooom For WooCommerce"
+msgstr ""
+
+#: includes/plugin-options.php:421
+msgid ""
+"Put the category ids separated by comma. e.g: 5,7,55 . So the zoom will be "
+"disabled on those categories."
+msgstr ""
+
+#: includes/plugin-options.php:431
+msgid ""
+"Put the products ids separated by comma. e.g: 5,7,55 . So the zoom will be "
+"disabled on those products."
+msgstr ""
+
+#: includes/plugin-options.php:202
+msgid "Round"
+msgstr ""
+
+#: includes/plugin-options.php:62
+#, php-format
+msgid ""
+"See the image below to understand the meaning of numbers.  (Effective for "
+"Zoom Type: window) <br><br> <img src=\"%s\" />"
+msgstr ""
+
+#: includes/plugin-options.php:341
+msgid "Set as a number e.g 200 for speed of Lens fadeIn. Default: false"
+msgstr ""
+
+#: includes/plugin-options.php:354
+msgid "Set as a number e.g 200 for speed of Lens fadeOut. Default: false"
+msgstr ""
+
+#: includes/plugin-options.php:393
+msgid "Set as a number e.g 200 for speed of Zoom Tint fadeIn. Default: false"
+msgstr ""
+
+#: includes/plugin-options.php:406
+msgid "Set as a number e.g 200 for speed of Zoom Tint fadeOut. Default: false"
+msgstr ""
+
+#: includes/plugin-options.php:367
+msgid "Set as a number e.g 200 for speed of Zoom Window fadeIn. Default: false"
+msgstr ""
+
+#: includes/plugin-options.php:380
+msgid ""
+"Set as a number e.g 200 for speed of Zoom Window fadeOut. Default: false"
+msgstr ""
+
+#: includes/plugin-options.php:201
+msgid "Square"
+msgstr ""
+
+#: includes/plugin-options.php:40
+msgid "Styling"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"This plugin enable options to zoom product image in the WooCommerce single "
+"product page."
+msgstr ""
+
+#: includes/plugin-options.php:305
+msgid "Tint Color"
+msgstr ""
+
+#: includes/plugin-options.php:313
+msgid "Tint Opacity"
+msgstr ""
+
+#. Author of the plugin
+msgid "Turje Yeasmin"
+msgstr ""
+
+#: includes/plugin-options.php:292
+msgid ""
+"Used in combination with lensColour to make the lens see through. When using "
+"tint, this is overrided to 0"
+msgstr ""
+
+#: includes/plugin-options.php:210
+msgid ""
+"Used when Zoom Type set to lens, when zoom type is set to window, then the "
+"lens size is auto calculated"
+msgstr ""
+
+#: includes/plugin-options.php:121
+msgid "Width of the Zoom Window.  (Effective for Zoom Type: window)"
+msgstr ""
+
+#: includes/plugin-options.php:111
+msgid "Width of the Zoom Window. (Effective for Zoom Type: window)"
+msgstr ""
+
+#: includes/plugin-options.php:274
+msgid "Window Border Color"
+msgstr ""
+
+#: includes/plugin-options.php:260
+msgid "Window Border Size"
+msgstr ""
+
+#: includes/plugin-options.php:156
+msgid ""
+"x-axis offset of the zoom window.  (Effective for Zoom Type: window) Default:"
+" 0"
+msgstr ""
+
+#: includes/plugin-options.php:170
+msgid ""
+"y-axis offset of the zoom window.  (Effective for Zoom Type: window) Default:"
+" 0"
+msgstr ""
+
+#: includes/plugin-options.php:130
+msgid "Zoom  Window Position"
+msgstr ""
+
+#: includes/plugin-options.php:392
+msgid "Zoom Tint Fade In Speed"
+msgstr ""
+
+#: includes/plugin-options.php:405
+msgid "Zoom Tint Fade Out Speed"
+msgstr ""
+
+#: includes/plugin-options.php:96
+msgid "Zoom Type"
+msgstr ""
+
+#: includes/plugin-options.php:366
+msgid "Zoom Window Fade In Speed"
+msgstr ""
+
+#: includes/plugin-options.php:379
+msgid "Zoom Window Fade Out Speed"
+msgstr ""
+
+#: includes/plugin-options.php:120
+msgid "Zoom Window Height"
+msgstr ""
+
+#: includes/plugin-options.php:155
+msgid "Zoom Window Offset X"
+msgstr ""
+
+#: includes/plugin-options.php:169
+msgid "Zoom Window Offset Y"
+msgstr ""
+
+#: includes/plugin-options.php:110
+msgid "Zoom Window Width"
+msgstr ""
